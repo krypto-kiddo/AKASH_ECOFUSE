@@ -7,6 +7,10 @@
 
 ![Akash AutoDeployer Logo](your-logo-url-here.png)
 
+<p align="center">
+  <a href="http://34.131.239.28/Auto_deployer">Live Demo</a>
+</p>
+
 ## Table of Contents 📋
 
 - [Introduction](#introduction)
