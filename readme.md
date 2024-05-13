@@ -5,11 +5,21 @@
   <em>Your One-Stop Solution for Effortless Cloud Deployment on the Akash Network!</em>
 </p>
 
-![Akash AutoDeployer Logo](your-logo-url-here.png)
+![Akash AutoDeployer Logo](https://akash.network/_astro/akash-logo.CzdYkoVW_2sjgHi.svg)
 
-<p align="center">
-  <a href="http://34.131.239.28/Auto_deployer">Live Demo</a>
-</p>
+
+
+### IMPORTANT LINKS
+<a href="https://github.com/orgs/akash-network/discussions/349">Official Proposal (All details here)</a>
+
+<a href="https://www.loom.com/share/55b7f978c66b4153b23336a0702e8248?sid=fdebab21-ec50-4852-9756-6b910c528073">DEMO VIDEO [ACTIVE]</a>
+
+<a href="https://dorahacks.io/buidl/7456">Hackathon Submission on DoraHacks</a>
+
+<a href="https://x.com/akashnet_/status/1715435561392222384?s=20">🏆 We won the first prize in the hackathon 🏆</a>
+
+<a href="http://34.131.239.28/Auto_deployer">Live Demo [OBSOLETE]</a>
+
 
 ## Table of Contents 📋
 
